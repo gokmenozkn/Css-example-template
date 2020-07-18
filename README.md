@@ -1,3 +1,3 @@
-## Template Looks
+## Template Look
 
 ![Screenshot](screen.png)
